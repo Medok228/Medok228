@@ -32,9 +32,34 @@
   <li><a href="https://github.com/Medok228/Course_work_E_Commerce">Курсовая работа "E-Commerce"</a></li>
   <li><a href="https://github.com/Medok228/GRADUATE_WORK_Information_Security_Specialist_Penetration_Testing">Дипломная работа по профессии «Специалист по информационной безопасности» (Penetration Testing)</a></li>
 </ul>
-<h3>Сертификаты</h3>
+<h3>Свидетельства</h3>
 <ul>
   <li>
+    <a href="certificates/pdf_certificate.pdf">Специалист по информационной безопасности</a> 
+  </li>
+  <li>
+    <a href="certificates/Information_Security_Basics.pdf">Основы информационной безопасности</a>
+  </li>
+  <li>
+  <a href="certificates/Data_Networks_and_Security.pdf">Сети передачи данных и безопасность</a>
+  </li>
+  <li>
+     <a href="certificates/Operating_system_security.pdf">Безопасность операционных систем, системное программирование</a>
+  </li>
+  <li>
+     <a href="certificates/Modern_software_development.pdf">Современная разработка ПО</a>
     
+  </li>
+  <li>
+     <a href="certificates/web_applications.pdf">Веб-приложения</a>
+  </li>
+   <li>
+     <a href="certificates/Attack_&_Defence.pd">Аttack & Defence</a>
+  </li>
+  <li>
+     <a href="certificates/modern_cybercrime.pdf">Современная киберпреступность и методы противодействия</a>
+  </li>
+    <li>
+     <a href="certificates/Response_to_information_security_incidents.pdf">Реагирование на инциденты ИБ и проактивный поиск угроз</a>
   </li>
 </ul>
