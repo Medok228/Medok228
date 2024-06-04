@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/0wx5k0EqXc5s4qgM6G/giphy.gif?cid=790b7611bkdzvqe7rppd6a5op1nzk0c6jnumiv3afw32dgz6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=250>
+<img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=790b7611x01ils01hepugbq9840soinsf3zhp4jd5uzkm47c&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=250>
 
 <div id="bandge">
   <a href="https://t.me/homyak00"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram icon"></a>
