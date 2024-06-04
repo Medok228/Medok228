@@ -10,7 +10,7 @@
 
 <div align="center"><h2>Привет, 👋 я Илья</h2></div>
 <div id="header2" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3gxZnhzOTNjZnFkM2pqdThjbjEzeTF1cHRnYWk1NjZ6czZ0cWd4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width=300>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFpdnlzdjBoc21tYXBsMnBpcmZjbHgwMjU4ZWI0YTZkeTZheXN3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BGIqWh2R1fi6JDa/giphy.gif" width=500 height=320>
 </div>
 <h3>Языки и Инструменты:</h3>
 <div>
