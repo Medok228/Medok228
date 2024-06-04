@@ -20,11 +20,11 @@
 <img src="https://github.com/Medok228/Medok228/assets/101337215/0ba5cc5f-a3f1-40c1-b548-2d774335c67e" alt="Owasp Zap" width=50>
 <img src="https://github.com/Medok228/Medok228/assets/101337215/b27519e8-fc11-4754-b2c7-e9e3867e81f3" alt="Nmap" width=70>
 <img src="https://github.com/Medok228/Medok228/assets/101337215/92e4f34c-81a6-4864-ade8-873f16066d88" alt="Wireshark" width=45>
-<img src="https://github.com/Medok228/Medok228/assets/101337215/b69a10b2-0956-4812-abf7-b86742bf7c02" alt="Wireshark" width=65">
-<img src="https://github.com/Medok228/Medok228/assets/101337215/06b2bbbc-d555-4a1b-8b62-05361bad32f6" alt="Wireshark" width=50">
-<img src="https://github.com/Medok228/Medok228/assets/101337215/5da06ca6-b8d1-4433-b1ac-7c011fbaff31" alt="Wireshark" width=50">
-<img src="https://github.com/Medok228/Medok228/assets/101337215/19a0fbe8-2a9b-44d2-911a-f4b781ebd320" alt="Wireshark" width=50">
-<img src="https://github.com/Medok228/Medok228/assets/101337215/37a293dd-1147-4f6d-984a-548c8ed0ed74" alt="Wireshark" width=50">
+<img src="https://github.com/Medok228/Medok228/assets/101337215/b69a10b2-0956-4812-abf7-b86742bf7c02" alt="Metasploit" width=65">
+<img src="https://github.com/Medok228/Medok228/assets/101337215/06b2bbbc-d555-4a1b-8b62-05361bad32f6" alt="Docker" width=50">
+<img src="https://github.com/Medok228/Medok228/assets/101337215/5da06ca6-b8d1-4433-b1ac-7c011fbaff31" alt="Bash" width=50">
+<img src="https://github.com/Medok228/Medok228/assets/101337215/19a0fbe8-2a9b-44d2-911a-f4b781ebd320" alt="Hashcat" width=50">
+<img src="https://github.com/Medok228/Medok228/assets/101337215/37a293dd-1147-4f6d-984a-548c8ed0ed74" alt="OpenVas" width=50">
 </div>
 <h3>Вот, мои работы</h3>
 <ul>
