@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=790b7611x01ils01hepugbq9840soinsf3zhp4jd5uzkm47c&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=250>
 
 <div id="bandge">
-  <a href="https://t.me/homyak00"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram icon"></a>
+  <a href="https://t.me/homyak00"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=flat" width=110 alt="Telegram icon"> </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Medok228">
 </div>
