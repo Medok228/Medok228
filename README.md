@@ -38,6 +38,9 @@
     <a href="certificates/Jr Penetration Tester (THM).png">Jr Penetration Tester (THM)</a>
   </li>
   <li>
+    <a href="certificates/Red Teaming (THM).png">Red Teaming (THM)</a>
+  </li>
+  <li>
     <a href="certificates/pdf_certificate.pdf">Специалист по информационной безопасности</a> 
   </li>
   <li>
