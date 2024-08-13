@@ -26,13 +26,13 @@
 <img src="https://github.com/Medok228/Medok228/assets/101337215/19a0fbe8-2a9b-44d2-911a-f4b781ebd320" alt="Hashcat" width=50">
 <img src="https://github.com/Medok228/Medok228/assets/101337215/37a293dd-1147-4f6d-984a-548c8ed0ed74" alt="OpenVas" width=50">
 </div>
-<h3>Вот, мои работы</h3>
+<h3>Вот, мои работы:</h3>
 <ul>
   <li><a href="https://github.com/Medok228/Course_work_Protected_circuit">Курсовая работа "Защищенный контур"</a></li>
   <li><a href="https://github.com/Medok228/Course_work_E_Commerce">Курсовая работа "E-Commerce"</a></li>
   <li><a href="https://github.com/Medok228/GRADUATE_WORK_Information_Security_Specialist_Penetration_Testing">Дипломная работа по профессии «Специалист по информационной безопасности» (Penetration Testing)</a></li>
 </ul>
-<h3>Свидетельства</h3>
+<h3>Свидетельства:</h3>
 <ul>
   <li>
     <a href="certificates/Jr Penetration Tester (THM).png">Jr Penetration Tester (THM)</a>
@@ -67,5 +67,11 @@
   </li>
     <li>
      <a href="certificates/Response_to_information_security_incidents.pdf">Реагирование на инциденты ИБ и проактивный поиск угроз</a>
+  </li>
+</ul>
+<h3>Ссылка на другую платформу:</h3>
+<ul>
+  <li>
+    <a href="https://tryhackme.com/p/Medok">Try Hack Me</a>
   </li>
 </ul>
