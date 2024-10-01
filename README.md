@@ -60,7 +60,7 @@
      <a href="certificates/web_applications.pdf">Веб-приложения</a>
   </li>
    <li>
-     <a href="certificates/Attack_&_Defence.pd">Аttack & Defence</a>
+     <a href="certificates/Attack_&_Defence.pdf">Аttack & Defence</a>
   </li>
   <li>
      <a href="certificates/modern_cybercrime.pdf">Современная киберпреступность и методы противодействия</a>
