@@ -42,7 +42,7 @@
 
 * 🧠 [Jr Penetration Tester (THM)](certificates/Jr%20Penetration%20Tester%20%28THM%29.png)
 * 🕵️‍♂️ [Red Teaming (THM)](certificates/Red%20Teaming%20%28THM%29.png)
-* 📄 [Information Security Specialist (PDF)](certificates/pdf_certificate.pdf)
+* 📄 [Information Security Specialist](certificates/pdf_certificate.pdf)
 * 🔐 [Information Security Basics](certificates/Information_Security_Basics.pdf)
 * 🌐 [Data Networks and Security](certificates/Data_Networks_and_Security.pdf)
 * 💻 [Operating System Security & Systems Programming](certificates/Operating_system_security.pdf)
