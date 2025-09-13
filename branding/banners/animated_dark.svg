@@ -1,83 +1,80 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MeDoK — Offensive Security">
-<stop offset="100%" stop-color="#111827">
-<animate attributeName="stop-color" values="#111827;#1e293b;#111827" dur="8s" repeatCount="indefinite"/>
-</stop>
-</linearGradient>
+  <defs>
+    <!-- Animated gradient background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#111827;#0f172a" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#111827">
+        <animate attributeName="stop-color" values="#111827;#1e293b;#111827" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
 
+    <!-- Subtle grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-opacity="0.15"/>
+    </pattern>
 
-<!-- Subtle grid pattern -->
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-<path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-opacity="0.15"/>
-</pattern>
+    <!-- Neon gradient for text fill -->
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+      <animate attributeName="x2" values="0%;100%;0%" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
 
+    <!-- Glow filter -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<!-- Neon gradient for text fill -->
-<linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#60a5fa"/>
-<stop offset="50%" stop-color="#a78bfa"/>
-<stop offset="100%" stop-color="#f472b6"/>
-<animate attributeName="x2" values="0%;100%;0%" dur="9s" repeatCount="indefinite"/>
-</linearGradient>
+    <!-- Scanline mask -->
+    <mask id="scanMask">
+      <rect width="100%" height="100%" fill="white"/>
+      <rect y="-360" width="100%" height="360" fill="black">
+        <animate attributeName="y" values="-360;360" dur="3.5s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
 
+  <!-- Background layers -->
+  <rect width="1200" height="360" fill="url(#bgGrad)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
 
-<!-- Glow filter -->
-<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-<feGaussianBlur stdDeviation="6" result="blur"/>
-<feMerge>
-<feMergeNode in="blur"/>
-<feMergeNode in="blur"/>
-<feMergeNode in="SourceGraphic"/>
-</feMerge>
-</filter>
+  <!-- Decorative orbs -->
+  <g opacity="0.25">
+    <circle cx="150" cy="80" r="70" fill="#22d3ee">
+      <animate attributeName="cy" values="80;90;80" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="300" r="100" fill="#818cf8">
+      <animate attributeName="cy" values="300;290;300" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
+  <!-- Main title -->
+  <g filter="url(#glow)">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+          font-family="'JetBrains Mono','Fira Code',monospace" font-size="120"
+          font-weight="800" letter-spacing="4" fill="url(#neon)" stroke="#94a3b8" stroke-width="1.2" mask="url(#scanMask)">
+      MeDoK
+    </text>
+  </g>
 
-<!-- Scanline stroke dash animation -->
-<mask id="scanMask">
-<rect width="100%" height="100%" fill="white"/>
-<rect y="-360" width="100%" height="360" fill="black">
-<animate attributeName="y" values="-360;360" dur="3.5s" repeatCount="indefinite"/>
-</rect>
-</mask>
-</defs>
+  <!-- Subtitle -->
+  <text x="50%" y="72%" text-anchor="middle" dominant-baseline="central"
+        font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif"
+        font-size="22" fill="#cbd5e1" opacity="0.9" letter-spacing="2">
+    Offensive Security · Pentesting · AppSec
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" repeatCount="indefinite"/>
+  </text>
 
-
-<!-- Background layers -->
-<rect width="1200" height="360" fill="url(#bgGrad)"/>
-<rect width="1200" height="360" fill="url(#grid)"/>
-
-
-<!-- Decorative orbs -->
-<g opacity="0.25">
-<circle cx="150" cy="80" r="70" fill="#22d3ee">
-<animate attributeName="cy" values="80;90;80" dur="6s" repeatCount="indefinite"/>
-</circle>
-<circle cx="1050" cy="300" r="100" fill="#818cf8">
-<animate attributeName="cy" values="300;290;300" dur="7s" repeatCount="indefinite"/>
-</circle>
-</g>
-
-
-<!-- Main title -->
-<g filter="url(#glow)">
-<text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
-font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="120"
-font-weight="800" letter-spacing="4" fill="url(#neon)" stroke="#94a3b8" stroke-width="1.2" mask="url(#scanMask)">
-MeDoK
-</text>
-</g>
-
-
-<!-- Subtitle -->
-<text x="50%" y="72%" text-anchor="middle" dominant-baseline="central"
-font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif"
-font-size="22" fill="#cbd5e1" opacity="0.9" letter-spacing="2">
-Offensive Security · Pentesting · AppSec
-<animate attributeName="opacity" values="0.7;1;0.7" dur="5s" repeatCount="indefinite"/>
-</text>
-
-
-<!-- Thin accent line -->
-<rect x="20" y="300" width="1160" height="1" fill="#475569">
-<animate attributeName="width" values="0;1160;0" dur="6s" repeatCount="indefinite"/>
-</rect>
+  <!-- Thin accent line -->
+  <rect x="20" y="300" width="1160" height="1" fill="#475569">
+    <animate attributeName="width" values="0;1160;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
 </svg>
