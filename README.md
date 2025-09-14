@@ -2,7 +2,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Medok228/Medok228/blob/main/branding/banners/animated.svg" />
-    <img alt="Medok228 — Offensive Security" src="./branding/banners/animated_light.svg" width="900">
+    <img alt="Medok228 — Offensive Security" src="https://github.com/Medok228/Medok228/blob/main/branding/banners/animated.svg" width="900">
   </picture>
 </p>
 
