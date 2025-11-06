@@ -75,9 +75,26 @@
 
 ## 🏆 Highlights
 
-- Bug bounty: participating in public programs, focusing on web vulnerabilities with real business impact (authZ/IDOR, SSRF, race conditions, logic flaws).
-- CVE: filing and maintaining CVEs in open-source projects, providing PoCs and fix recommendations.
-- Practice: Linux/Network security, structured reports and PoCs, light automation for repetitive checks.
+- **BSCP (PortSwigger) — Verified Practical Exam:** Successfully passed the PortSwigger BSCP exam. This certification validates real-world web security skills, including identification and exploitation of vulnerabilities and preparation of working PoCs.
+
+- **Bug Bounty:** Active participation in public bug bounty programs with focus on vulnerabilities that have real business impact (authZ/IDOR, SSRF, race conditions, logic flaws). Focus on impactful findings rather than noise.
+
+- **CVE & Research:** Filing and maintaining CVEs in open-source projects — from vulnerability discovery and PoC creation to advisory and mitigation guidance.
+
+- **Practical Security & Automation:** Strong Linux/Network security background, structured reporting and reproducible PoCs. Development of small-scale tooling and automation for routine testing (Nuclei/Semgrep templates, scripts, test harnesses).
+
+
+
+---
+## ✅ Verified certifications
+
+<div align="left">
+
+**BSCP — PortsWigger Web Security Certification**  
+<a href="https://portswigger.net/web-security/e/c/b637ea58a9fab588" target="_blank" rel="noopener">
+  <img alt="PortsWigger BSCP" src="https://img.shields.io/badge/BSCP%20(PortsWigger)-Verified-0077B6?style=flat&logo=portswigger&logoColor=white">
+</a> 
+</div>
 
 ---
 
@@ -95,6 +112,7 @@
 
 * 🧠 <a href="certificates/Jr%20Penetration%20Tester%20(THM).png">Jr Penetration Tester (THM)</a>
 * 🕵️‍♂️ <a href="certificates/Red%20Teaming%20(THM).png">Red Teaming (THM)</a>
+* 🧪 <a href="https://portswigger.net/web-security/e/c/b637ea58a9fab588" target="_blank">BSCP — PortsWigger (verified)</a>
 * 📄 <a href="certificates/pdf_certificate.pdf">Information Security Specialist</a>
 * 🔐 <a href="certificates/Information_Security_Basics.pdf">Information Security Basics</a>
 * 🌐 <a href="certificates/Data_Networks_and_Security.pdf">Data Networks and Security</a>
