@@ -125,22 +125,6 @@
 
 </details>
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Medok228&show_icons=true&theme=transparent&rank_icon=github" height="150" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=Medok228&theme=transparent" height="150" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medok228&layout=compact&theme=transparent" height="140" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Medok228&theme=flat&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="trophies"/>
-</p>
 
 ---
 
