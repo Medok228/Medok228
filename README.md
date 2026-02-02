@@ -10,6 +10,7 @@
   <a href="https://t.me/homyak00"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
   <a href="https://tryhackme.com/p/Medok"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212c42?logo=tryhackme&logoColor=white"></a>
   <a href="mailto:ilya_andreev20@mail.ru"><img alt="Email" src="https://img.shields.io/badge/Email-ilya_andreev20%40mail.ru-informational"></a>
+  <a href="https://bugbounty.bi.zone/profile/medok"><img src="https://img.shields.io/static/v1?label=BugBounty+BI.ZONE&message=MeDoK&color=blue&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiPgo8cGF0aCBkPSJNMCAwIEMxNy4xNiAwIDM0LjMyIDAgNTIgMCBDNTIgMTYuNSA1MiAzMyA1MiA1MCBDMTAyLjE2IDUwIDE1Mi4zMiA1MCAyMDQgNTAgQzIwNCAzMy41IDIwNCAxNyAyMDQgMCBDMjIxLjE2IDAgMjM4LjMyIDAgMjU2IDAgQzI1NiAxNy4xNiAyNTYgMzQuMzIgMjU2IDUyIEMyMzkuNSA1MiAyMjMgNTIgMjA2IDUyIEMyMDYgNjguNSAyMDYgODUgMjA2IDEwMiBDMjIyLjUgMTAyIDIzOSAxMDIgMjU2IDEwMiBDMjU2IDEzNi4zMiAyNTYgMTcwLjY0IDI1NiAyMDYgQzIzOS41IDIwNiAyMjMgMjA2IDIwNiAyMDYgQzIwNiAyMjIuNSAyMDYgMjM5IDIwNiAyNTYgQzE4OC41MSAyNTYgMTcxLjAyIDI1NiAxNTMgMjU2IEMxNTIuNjcgMjM5LjUgMTUyLjM0IDIyMyAxNTIgMjA2IEMxMzYuMTYgMjA2IDEyMC4zMiAyMDYgMTA0IDIwNiBDMTAzLjY3IDIyMi41IDEwMy4zNCAyMzkgMTAzIDI1NiBDODUuNTEgMjU2IDY4LjAyIDI1NiA1MCAyNTYgQzUwIDIzOS41IDUwIDIyMyA1MCAyMDYgQzMzLjUgMjA2IDE3IDIwNiAwIDIwNiBDMCAxNzEuNjggMCAxMzcuMzYgMCAxMDIgQzE2LjUgMTAyIDMzIDEwMiA1MCAxMDIgQzUwIDg1LjUgNTAgNjkgNTAgNTIgQzMzLjUgNTIgMTcgNTIgMCA1MiBDMCAzNC44NCAwIDE3LjY4IDAgMCBaIE01MiAxMDMgQzUyIDExOS41IDUyIDEzNiA1MiAxNTMgQzEwMi4xNiAxNTMgMTUyLjMyIDE1MyAyMDQgMTUzIEMyMDQgMTM2LjUgMjA0IDEyMCAyMDQgMTAzIEMxNTMuODQgMTAzIDEwMy42OCAxMDMgNTIgMTAzIFogIiBmaWxsPSIjMTYzQkZGIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIi8%2bCjwvc3ZnPgo%3d&style=flat"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Medok228&style=flat&color=blue"/>
 </p>
 
@@ -132,6 +133,7 @@
 
 * Telegram: <a href="https://t.me/homyak00">@homyak00</a>
 * TryHackMe: <a href="https://tryhackme.com/p/Medok">Medok</a>
+* BI.Zone BugBounty <a href="https://bugbounty.bi.zone/profile/medok">MeDoK</a>
 
 
 ---
