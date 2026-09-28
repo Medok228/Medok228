@@ -103,6 +103,9 @@
 
 - **CVE-2025-47783** · [advisory](https://github.com/advisories/GHSA-8jhr-wpcm-hh4h) 
 - **CVE-2025-53838** · [advisory](https://github.com/Kovah/LinkAce/security/advisories/GHSA-vwmx-v9qf-q656)
+- **GHSA-c555-vj2m-gm28** · [advisory](https://github.com/HumanSignal/label-studio/security/advisories/GHSA-c555-vj2m-gm28)
+- **GHSA-pw3x-qx26-6c54** · [advisory](https://github.com/HumanSignal/label-studio/security/advisories/GHSA-pw3x-qx26-6c54)
+
 
 ---
 
